@@ -1,0 +1,8 @@
+{
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports.ruff": true,
+       "editor.formatOnSave": true
+    }
+  }
+}
